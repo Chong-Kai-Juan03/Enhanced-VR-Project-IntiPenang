@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/INTI Penang Tour.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ff0e4c24671868f4b96857cbe9b2dbd0, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: eff91edb8b013124fa0cef58d9e3ed7a, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: be8bceb2a59cf3e4d9077069eeef774c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0ea9d5a2a589db64e877192ee15a01f0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d92866b4522176b4ebba66667d7c3755, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 7d5db9eb5a54496478c2f8d49e3f3860, type: 2}
